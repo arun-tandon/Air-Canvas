@@ -1,5 +1,6 @@
 # Air-Canvas
-Computer vision project implemented with OpenCV 
+Computer vision project implemented with OpenCV .
+
 Draw your imagination by just waiving your finger in air 
 We will be using the computer vision techniques of OpenCV to build this project.
 The preffered language is python due to its exhaustive libraries and easy to use syntax 
